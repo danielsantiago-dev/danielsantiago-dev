@@ -1,16 +1,27 @@
-## Hi there 👋
+## Welcome, I'm Daniel Santiago
 
-<!--
-**danielsantiago-dev/danielsantiago-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![website](https://img.shields.io/badge/System_Engineer_Student-at_CUN-green)
 
-Here are some ideas to get you started:
+from Colombia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard Skills
+
+Programming Languages
+
+![Static Badge](https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html5&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Javascript-grey?style=flat-square&logo=javascript&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Typescript-grey?style=flat-square&logo=typescript&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=%23FFF)
+
+Terminal Shells
+
+![Static Badge](https://img.shields.io/badge/Zsh-grey?style=flat-square&logo=zsh&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/GNU%20Bash-grey?style=flat-square&logo=gnubash&logoColor=%23FFF)
+
+
+Frameworks & Tools
+
+![Static Badge](https://img.shields.io/badge/Astro-grey?style=flat-square&logo=astro&logoColor=%23FFF)
+![Static Badge](https://img.shields.io/badge/Tailwind-grey?style=flat-square&logo=Tailwind%20CSS&logoColor=%23FFF)
+
