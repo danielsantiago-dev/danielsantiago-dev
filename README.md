@@ -25,3 +25,7 @@ Frameworks & Tools
 ![Static Badge](https://img.shields.io/badge/Astro-grey?style=flat-square&logo=astro&logoColor=%23FFF)
 ![Static Badge](https://img.shields.io/badge/Tailwind-grey?style=flat-square&logo=Tailwind%20CSS&logoColor=%23FFF)
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
