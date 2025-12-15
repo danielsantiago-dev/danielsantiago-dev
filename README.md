@@ -26,12 +26,12 @@ Frameworks & Tools
 ![Static Badge](https://img.shields.io/badge/Tailwind-grey?style=flat-square&logo=Tailwind%20CSS&logoColor=%23FFF)
 
 ### :zap: Recent Activity
-\<!--START\_SECTION:activity-->
+<!--START\_SECTION:activity-->
 
-\<!--END\_SECTION:activity-->
+<!--END\_SECTION:activity-->
 
 
 
-\<!--RECENT\_ACTIVITY:start-->
+<!--RECENT\_ACTIVITY:start-->
 
-\<!--RECENT\_ACTIVITY:last\_update-->
+<!--RECENT\_ACTIVITY:last\_update-->
